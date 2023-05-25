@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;700&display=swap');
+
+* {
+    margin: 0px;
+}
+
+body {
+    display: grid;
+    background-color: hsl(0, 0%, 98%) ;
+    grid-template-rows: 0.8fr 2fr;
+    font-family:"Outfit";
+    padding:60px;
+}
+
+.sub-title, .head-title {
+    font-size: 1.5rem;
+}
+
+.head-title {
+    font-weight: 100;
+}
+
+.sub-title {
+    font-weight: 300;
+}
+
+.top-title {
+    display : block;
+    width: 500px;
+    text-align: center;
+    justify-self: center;
+}
+
+.header-text {
+    margin-top: 15px;
+}
+.text {
+    font-size: 0.9rem;
+}
+
+.grid-elements {
+    margin: 0 30px 30px 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1 fr;
+    align-content: space-around;
+}
+
+.supervisor {
+    display: block;
+    height: 150px;
+    width : 250px;
+    background-color: white;
+    align-self: center;
+    border-radius: 10px;
+    border-top: 5px solid;
+    border-top-color:hsl(180, 62%, 55%) ;
+    padding: 15px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.team-builder {
+    display: block;
+    height: 150px;
+    width : 250px;
+    background-color: white;
+    border-top: 5px solid;
+    border-radius: 10px;
+    border-top-color:hsl(0, 78%, 62%) ;
+    padding: 15px;
+    margin-bottom: 40px;
+
+}
+
+.karma {
+    display: block;
+    height: 150px;
+    width : 250px;
+    background-color: white;
+    align-self: flex-end ;
+    border-radius: 10px;
+    border-top: 5px solid;
+    border-top-color:hsl(34, 97%, 64%) ;
+    padding: 15px;
+}
+
+
+.calculator {
+    display: block;
+    height: 150px;
+    width: 250px;
+    background-color: white;
+    align-self: center;
+    border-radius:10px;
+    border-top: 5px solid;
+    border-top-color:hsl(212, 86%, 64%);
+    padding: 15px;
+    margin: 20px;
+}
+
+.middle-elements {
+    margin: 20px;
+}
+.block-title {
+    font-weight: bold;
+}
+
+.icon {
+    display:flex;
+    justify-content: flex-end;
+    padding-top: 30px;
+}
