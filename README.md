@@ -8,16 +8,15 @@ This is my solution to the [Four card feature section challenge on Frontend Ment
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
+
+This a four card feature section layout built with HTML and styled with CSS.
 
 ### The challenge
 
@@ -29,15 +28,11 @@ The user should :
 
 This is a sreenshot of the layout.
 
-![](./screenshot.jpg)
-
-
+![Screenshot layout](./images/four-card-feature-section.JPG)
 
 ### Links
 
 - Live Site URL: [My live site](https://megankullu.github.io/four-card-feature-section-master/)
-
-## My process
 
 ### Built with
 
@@ -58,7 +53,7 @@ Looking to implement more challenges using flexbox to perfect my skills.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me when implementing positions of elements inside a grid container.
+- [w3docs](https://www.w3docs.com/snippets/css/how-to-center-the-content-in-grid.html) - This helped me when implementing positions of elements inside a grid container.
 
 
 ## Author
