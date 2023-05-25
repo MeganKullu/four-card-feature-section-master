@@ -35,7 +35,7 @@ This is a sreenshot of the layout.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My live site](https://megankullu.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -66,5 +66,3 @@ Looking to implement more challenges using flexbox to perfect my skills.
 - Website - [Megan Kullu](https://www.megankullu.tech)
 - Frontend Mentor - [@MeganKullu](https://www.frontendmentor.io/profile/MeganKullu)
 - Twitter - [@megankullu](https://www.twitter.com/megankullu)
-
-
