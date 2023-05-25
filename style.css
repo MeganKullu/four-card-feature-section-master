@@ -43,7 +43,6 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1 fr;
-    align-content: space-around;
 }
 
 .supervisor {
@@ -57,7 +56,7 @@ body {
     border-top-color:hsl(180, 62%, 55%) ;
     padding: 15px;
     margin: 20px;
-    box-sizing: border-box;
+    box-shadow: 10px 5px 5px rgb(233, 229, 229);
 }
 
 .team-builder {
@@ -70,6 +69,7 @@ body {
     border-top-color:hsl(0, 78%, 62%) ;
     padding: 15px;
     margin-bottom: 40px;
+    box-shadow: 10px 5px 5px rgb(233, 229, 229);
 
 }
 
@@ -83,6 +83,7 @@ body {
     border-top: 5px solid;
     border-top-color:hsl(34, 97%, 64%) ;
     padding: 15px;
+    box-shadow: 10px 5px 5px rgb(233, 229, 229);
 }
 
 
@@ -97,6 +98,7 @@ body {
     border-top-color:hsl(212, 86%, 64%);
     padding: 15px;
     margin: 20px;
+    box-shadow: 10px 5px 5px rgb(233, 229, 229);
 }
 
 .middle-elements {
